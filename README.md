@@ -33,13 +33,13 @@ This is a starter template for react and typescript created with [Vite](https://
    npm run dev
    ```
 
-## What to setup your own React Project?
+## Want to setup your own React Project?
 
 ### Here are some resources that will help you out.
 
 <br/><br/>
 
-### ESLint with VSCode, Prettier, Husky and React for Beginners
+### ESLint with VSCode, Prettier, Husky and React for Beginners.
 
  <br />
 
@@ -47,7 +47,7 @@ This is a starter template for react and typescript created with [Vite](https://
 
 <br/><br/>
 
-### Setting up vite, React, Typescript, eslint, vitest, testing-library and react router
+### Setting up vite, React, Typescript, eslint, vitest, testing-library and react router.
 
 <br />
 
